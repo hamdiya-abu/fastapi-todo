@@ -12,9 +12,7 @@ A simple ToDo application built with FastAPI, SQLAlchemy, MySQL, and Docker.
   - [Running the App](#running-the-app)
 - [API Documentation](#api-documentation)
 - [Database Configuration](#database-configuration)
-- [Docker](#docker)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
